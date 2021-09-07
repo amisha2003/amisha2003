@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amisha bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amisha bharti" height="30" width="40" /></a>
 <a href="https://instagram.com/bharti.amisha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharti.amisha.1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/coding code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding code" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amisha2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amisha2003" height="30" width="40" /></a>
 </p>
 
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha2003&show_icons=true&locale=en" alt="amisha2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha2003&" alt="amisha2003" /></p>
-
