@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amisha2003" alt="amisha2003" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo db**
+- 🌱 I’m currently learning **Data Structure**
 
 - ⚡ Fun fact **I think I am Funny XD**
 
